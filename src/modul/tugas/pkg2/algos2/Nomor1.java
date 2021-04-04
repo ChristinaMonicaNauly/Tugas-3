@@ -19,7 +19,7 @@ public class Nomor1 {
     public static void main(String[] args) {
         // TODO code application logic here
         Scanner input = new Scanner(System.in);
-        String data[]={"Galileo","Archimedes","Alkhawarizmi","Aljabar","Mokhamad Akbar Wijaya","Tesla"};
+        String data[]={"Galileo","Archimedes","Alkhawarizmi","Aljabar","Christina Monica Nauly","Tesla"};
         String key;
         System.out.println("Isi Data Adalah : ");
         for (int i=0;i<data.length;i++){
