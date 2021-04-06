@@ -45,7 +45,7 @@ public class Nomor2 {
         if(ketemu==1){
             System.out.println("Data Dapat diTemukan ");
         }else{
-            System.out.println("Data Tidak Dapat Ditemukan ");
+            System.out.println("Christina Monica Nauly ");
         }
         
     }
